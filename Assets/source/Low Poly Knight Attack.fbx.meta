@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: dc5b28eda62bbbe4987e5c46833b88b3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armor
+    100002: Feather
+    100004: Head
+    100006: Helmet
+    100008: Left_arm
+    100010: Left_foot
+    100012: Left_hand
+    100014: Left_shoulder
+    100016: Left_shoulder_pad
+    100018: Leg_Leg
+    100020: //RootNode
+    100022: Right_arm
+    100024: Right_foot
+    100026: Right_hand
+    100028: Right_leg
+    100030: Right_shoulder
+    100032: Right_shoulder_pad
+    100034: Shield
+    100036: Skirt
+    100038: Sword
+    400000: Armor
+    400002: Feather
+    400004: Head
+    400006: Helmet
+    400008: Left_arm
+    400010: Left_foot
+    400012: Left_hand
+    400014: Left_shoulder
+    400016: Left_shoulder_pad
+    400018: Leg_Leg
+    400020: //RootNode
+    400022: Right_arm
+    400024: Right_foot
+    400026: Right_hand
+    400028: Right_leg
+    400030: Right_shoulder
+    400032: Right_shoulder_pad
+    400034: Shield
+    400036: Skirt
+    400038: Sword
+    2100000: 07 - Default
+    2100002: 02 - Default
+    2100004: 01 - Default
+    2100006: 08 - Default
+    2100008: 03 - Default
+    2300000: Armor
+    2300002: Feather
+    2300004: Head
+    2300006: Helmet
+    2300008: Left_arm
+    2300010: Left_foot
+    2300012: Left_hand
+    2300014: Left_shoulder
+    2300016: Left_shoulder_pad
+    2300018: Leg_Leg
+    2300020: //RootNode
+    2300022: Right_arm
+    2300024: Right_foot
+    2300026: Right_hand
+    2300028: Right_leg
+    2300030: Right_shoulder
+    2300032: Right_shoulder_pad
+    2300034: Shield
+    2300036: Skirt
+    2300038: Sword
+    3300000: Armor
+    3300002: Feather
+    3300004: Head
+    3300006: Helmet
+    3300008: Left_arm
+    3300010: Left_foot
+    3300012: Left_hand
+    3300014: Left_shoulder
+    3300016: Left_shoulder_pad
+    3300018: Leg_Leg
+    3300020: //RootNode
+    3300022: Right_arm
+    3300024: Right_foot
+    3300026: Right_hand
+    3300028: Right_leg
+    3300030: Right_shoulder
+    3300032: Right_shoulder_pad
+    3300034: Shield
+    3300036: Skirt
+    3300038: Sword
+    4300000: Lower_body
+    4300002: Leg_Leg
+    4300004: Left_foot
+    4300006: Right_leg
+    4300008: Right_foot
+    4300010: Skirt
+    4300012: Armor
+    4300014: Right_shoulder
+    4300016: Right_shoulder_pad
+    4300018: Right_arm
+    4300020: Right_hand
+    4300022: Sword
+    4300024: Left_shoulder
+    4300026: Left_shoulder_pad
+    4300028: Left_arm
+    4300030: Left_hand
+    4300032: Shield
+    4300034: Head
+    4300036: Helmet
+    4300038: Feather
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0014
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
